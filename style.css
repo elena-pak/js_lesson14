@@ -1,0 +1,119 @@
+
+
+.menu{
+    background-color: black;
+    padding: 3px;
+}
+
+.main, .goods, .contacts{
+    text-decoration: none;
+    color: white;
+}
+
+.adv{
+    background-color: rgb(166, 170, 231);
+    width: 100vw;
+    height: 200px;
+}
+.container{
+    width: 100vw;
+    display: flex;
+}
+
+.category, .content, .right-panel{
+    display: inline-block;
+    height: 100vh;
+    vertical-align: top;
+    padding: 5px;
+}
+
+.category{
+    width: 20%;
+    background-color: silver;
+}
+
+.content{
+    width: 55%;
+    background-color: lightsteelblue;
+}
+
+.right-panel{
+    width: 20%;
+    background-color: lightpink;
+}
+
+.container-2{
+    width: 100vw;
+    display: flex;
+}
+
+.category-2, .content-2{
+    display: inline-block;
+    height: 100vh;
+    vertical-align: top;
+    padding: 5px;
+}
+
+.category-2{
+    width: 48%;
+    background-color: lightyellow;
+}
+
+.content-2{
+    width: 48%;
+    background-color: rgb(176, 222, 195);
+}
+
+.container-3{
+    width: 100vw;
+    display: flex;
+}
+
+.category-3, .content-3{
+    display: inline-block;
+    height: 100vh;
+    vertical-align: top;
+    padding: 5px;
+}
+
+.category-3{
+    width: 30%;
+    background-color: rgb(243, 224, 202);
+}
+
+.content-3{
+    width: 67%;
+    background-color: lightslategrey;
+}
+
+.container-4{
+    width: 100vw;
+    display: flex;
+}
+
+.navigation, .apple, .xiomi, .samsung{
+    display: inline-block;
+    height: 100vh;
+    vertical-align: top;
+    padding: 5px;
+}
+
+.navigation{
+    width: 23%;
+    background-color: rgb(223, 185, 191);
+}
+
+.apple{
+    width: 23%;
+    background-color: rgb(194, 188, 223);
+}
+
+.xiomi{
+    width: 23%;
+    background-color: rgb(211, 206, 166);
+}
+
+.samsung{
+    width: 23%;
+    background-color: rgb(201, 233, 201);
+}
